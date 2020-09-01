@@ -16,3 +16,5 @@ gem "pry", :group => :development
 
 gem 'sinatra', '1.4.5'
 
+gem 'sinatra', '~> 1.4.0'
+
